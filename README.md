@@ -1,1 +1,1 @@
-My second file
+This is an update check
